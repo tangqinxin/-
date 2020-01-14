@@ -1,0 +1,2 @@
+﻿  main.cpp
+d:\学习\c++\数据结构学习\pta甲级\pta甲级备考\sleepfuntest\main.cpp(11): error C3867: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str”: 非标准语法；请使用 "&" 来创建指向成员的指针

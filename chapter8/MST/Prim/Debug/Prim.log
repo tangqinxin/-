@@ -1,0 +1,6 @@
+﻿  Prim.cpp
+d:\学习\c++\数据结构学习\chapter8\mst\prim\prim.cpp(93): warning C4101: “v2”: 未引用的局部变量
+d:\学习\c++\数据结构学习\chapter8\mst\prim\prim.cpp(94): warning C4101: “weight”: 未引用的局部变量
+d:\学习\c++\数据结构学习\chapter8\mst\prim\prim.cpp(93): warning C4101: “v1”: 未引用的局部变量
+  Prim.vcxproj -> D:\学习\c++\数据结构学习\chapter8\MST\Debug\Prim.exe
+  Prim.vcxproj -> D:\学习\c++\数据结构学习\chapter8\MST\Debug\Prim.pdb (Full PDB)

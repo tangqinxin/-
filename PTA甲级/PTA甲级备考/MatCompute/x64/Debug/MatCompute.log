@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\学习\c++\数据结构学习\pta甲级\pta甲级备考\matcompute\main.cpp(11): warning C4305: “=”: 从“double”到“float”截断
+d:\学习\c++\数据结构学习\pta甲级\pta甲级备考\matcompute\main.cpp(12): warning C4305: “=”: 从“double”到“float”截断
+d:\学习\c++\数据结构学习\pta甲级\pta甲级备考\matcompute\main.cpp(13): warning C4305: “=”: 从“double”到“float”截断
+  MatCompute.vcxproj -> D:\学习\c++\数据结构学习\PTA甲级\PTA甲级备考\x64\Debug\MatCompute.exe
+  MatCompute.vcxproj -> D:\学习\c++\数据结构学习\PTA甲级\PTA甲级备考\x64\Debug\MatCompute.pdb (Full PDB)

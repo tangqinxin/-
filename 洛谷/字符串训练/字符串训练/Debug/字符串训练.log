@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\学习\c++\数据结构学习\洛谷\字符串训练\字符串训练\main.cpp(95): warning C4101: “num”: 未引用的局部变量
+  字符串训练.vcxproj -> D:\学习\c++\数据结构学习\洛谷\字符串训练\Debug\字符串训练.exe
+  字符串训练.vcxproj -> D:\学习\c++\数据结构学习\洛谷\字符串训练\Debug\字符串训练.pdb (Full PDB)

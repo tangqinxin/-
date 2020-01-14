@@ -1,0 +1,4 @@
+﻿  PAT Judge.cpp
+d:\学习\c++\数据结构学习\chapter9\hw9\pat judge\pat judge\pat judge.cpp(32): warning C4715: “cmp”: 不是所有的控件路径都返回值
+  PAT Judge.vcxproj -> D:\学习\c++\数据结构学习\chapter9\hw9\PAT Judge\Debug\PAT Judge.exe
+  PAT Judge.vcxproj -> D:\学习\c++\数据结构学习\chapter9\hw9\PAT Judge\Debug\PAT Judge.pdb (Full PDB)
